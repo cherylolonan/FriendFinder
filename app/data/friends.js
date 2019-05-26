@@ -2,7 +2,7 @@ var friends = [
 	
 	{
 		name: "Thor Odinson",
-		photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwir1r7AmbjiAhUENH0KHT-vDuQQjRx6BAgBEAU&url=https%3A%2F%2Fmedium.com%2Fthe-establishment%2Fis-thor-ragnarok-a-subversive-takedown-of-white-supremacy-aec729cf0f40&psig=AOvVaw3oIUKbe2fMCS9EfnrM3AeY&ust=1558925839869644",
+		photo: "https://img.cinemablend.com/filter:scale/quill/2/f/2/a/d/e/2f2adeb636270a71d6257d69093a1d34a6685e66.jpg?mw=600",
 		scores: [
 			"5",
 			"3",
@@ -18,7 +18,7 @@ var friends = [
 	},
 	{
 		name: "Steve Rogers",
-		photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiY9Jf9mbjiAhVjJzQIHWTRCagQjRx6BAgBEAU&url=https%3A%2F%2Fwww.thewrap.com%2Fchris-evans-captain-america-avengers-4%2F&psig=AOvVaw0BBIiylxGk6e83JgVbuIOg&ust=1558925947777549",
+		photo: "https://boygeniusreport.files.wordpress.com/2014/04/captain-america.jpg?quality=98&strip=all",
 		scores: [
 			"3",
 			"1",
@@ -34,7 +34,7 @@ var friends = [
 	},
 	{
 		name: "Arthur Curry",
-		photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjHi6CuibjiAhXSPH0KHXWrCBQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.empireonline.com%2Fmovies%2Faquaman%2Freview%2F&psig=AOvVaw0Zqc0a_Xjpk0iGVQB1NgnE&ust=1558921454820625",
+		photo: "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Finsertcoin%2Ffiles%2F2018%2F12%2Faqua2.jpg",
 		score: [
 			"3",
 			"1",
@@ -50,7 +50,7 @@ var friends = [
     },
     {
 		name: "Diana Prince",
-		photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi5gb20i7jiAhVVGDQIHbeyBR4QjRx6BAgBEAU&url=https%3A%2F%2Fnurdpedia.fandom.com%2Fwiki%2FWonder_Woman&psig=AOvVaw33IKNLGcdmiLBCcwVrZV15&ust=1558922053121245",
+		photo: "https://www.indiewire.com/wp-content/uploads/2016/07/wonder-woman.jpg?w=780",
 		score: [
 			"3",
 			"1",
@@ -66,7 +66,7 @@ var friends = [
     },
     {
 		name: "Carol Danvers",
-		photo: "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3pLmjmrjiAhXyHzQIHel4BdUQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fgeektyrant.com%252Fnews%252Fcaptain-marvel-is-said-to-be-the-next-face-and-leader-of-the-mcu-as-we-move-into-phase-4%26psig%3DAOvVaw0zfAMTeIlLhFq_9RlQcZON%26ust%3D1558926048495827&psig=AOvVaw0zfAMTeIlLhFq_9RlQcZON&ust=1558926048495827",
+		photo: "https://static1.squarespace.com/static/58b9878bd482e90722c2ee5a/58b987eee6f2e1ea4bfef585/5c8946334785d376b37b59ad/1552500809237/Captain_Marvel.jpeg?format=1000w",
 		score: [
 			"3",
 			"1",
@@ -82,7 +82,7 @@ var friends = [
     },
     {
         name: "Natasha Romanoff",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjThpH7mrjiAhUIJDQIHVMZBZwQjRx6BAgBEAU&url=https%3A%2F%2Fcomicvine.gamespot.com%2Fforums%2Fgen-discussion-1%2Fwould-mcu-natasha-romanoff-and-cw-oliver-queen-mak-1949520%2F&psig=AOvVaw1wOQB1hjrXOtSdrbKq0AF_&ust=1558926238778085",
+        photo: "https://i.pinimg.com/originals/35/f3/61/35f361e265c1e4ac5465a7934dfed92f.jpg",
         scores: [
             "3",
             "1",
