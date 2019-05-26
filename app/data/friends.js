@@ -47,54 +47,6 @@ var friends = [
 			"5",
 			"4"		
         ]
-    },
-    {
-		name: "Diana Prince",
-		photo: "https://www.indiewire.com/wp-content/uploads/2016/07/wonder-woman.jpg?w=780",
-		score: [
-			"3",
-			"1",
-			"3",
-			"2",
-			"4",
-			"3",
-			"5",
-			"1",
-			"5",
-			"4"		
-        ]
-    },
-    {
-		name: "Carol Danvers",
-		photo: "https://static1.squarespace.com/static/58b9878bd482e90722c2ee5a/58b987eee6f2e1ea4bfef585/5c8946334785d376b37b59ad/1552500809237/Captain_Marvel.jpeg?format=1000w",
-		score: [
-			"3",
-			"1",
-			"4",
-			"4",
-			"4",
-			"1",
-			"5",
-			"1",
-			"5",
-			"4"		
-        ]
-    },
-    {
-        name: "Natasha Romanoff",
-        photo: "https://i.pinimg.com/originals/35/f3/61/35f361e265c1e4ac5465a7934dfed92f.jpg",
-        scores: [
-            "3",
-            "1",
-            "3",
-            "4",
-            "1",
-            "4",
-            "1",
-            "1",
-            "5",
-            "3"
-        ]
     }
 ];
 
